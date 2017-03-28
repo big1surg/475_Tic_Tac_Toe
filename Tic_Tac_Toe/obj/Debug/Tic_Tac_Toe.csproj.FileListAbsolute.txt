@@ -1,0 +1,14 @@
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.XML
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.XML
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\Tic_Tac_Toe ver2\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojResolveAssemblyReference.cache

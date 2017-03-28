@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tic_Tac_Toe</name>
+    </assembly>
+    <members>
+        <member name="T:Tic_Tac_Toe.TicTacToe">
+            <summary>
+            Program is a game of simple tic tac toe
+            </summary>
+        </member>
+        <member name="M:Tic_Tac_Toe.TicTacToe.#ctor">
+            <summary>
+            Construtor
+            </summary>
+        </member>
+        <member name="M:Tic_Tac_Toe.TicTacToe.PrintBoard">
+            <summary>
+            Prints the game board
+            </summary>
+        </member>
+        <member name="M:Tic_Tac_Toe.TicTacToe.Play">
+            <summary>
+            Logic for the game
+            </summary>
+        </member>
+        <member name="M:Tic_Tac_Toe.TicTacToe.CheckWin">
+            <summary>
+            Checks if anyone has won, it is checked after every turn
+            </summary>
+            <returns>a 1 is someone has won, returns -1 if its a draw, 0 is no one has one</returns>
+        </member>
+        <member name="M:Tic_Tac_Toe.TicTacToe.CheckDraw">
+            <summary>
+            method that checks if there is a draw
+            </summary>
+            <returns>bool stating whether there is a draw or not</returns>
+        </member>
+    </members>
+</doc>
